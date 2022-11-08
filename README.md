@@ -7,11 +7,13 @@ In this A/B test, bombabomba.com randomly splits its audience into two equally s
 The A/B test has run for 1 month and bombabomba.com now expects you to analyze the results of this A/B test.
 
 
-Dataset Story:
+Dataset Story
+
 In this dataset, which contains the website information of this user, the users information such as the number of ads they saw and clicked on, as well as earnings information. There are two separate data sets as Control and Test group.
 
 
-Variables:
+Variables
+
 Impression – Number of ad views
 Click – Click (Indicates the number of clicks on the displayed ad.)
 Purchase – Indicates the number of products purchased after the clicked ads.
