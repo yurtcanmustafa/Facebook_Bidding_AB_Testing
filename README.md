@@ -9,12 +9,17 @@ The A/B test has run for 1 month and bombabomba.com now expects you to analyze t
 
 Dataset Story
 
-In this dataset, which contains the website information of this user, the users information such as the number of ads they saw and clicked on, as well as earnings information. There are two separate data sets as Control and Test group.
+In this dataset, which contains the website information of this user, the users information such as the number of ads they saw and clicked on, as well as earnings information. 
+
+There are two separate data sets as Control and Test group.
 
 
 Variables
 
 Impression – Number of ad views
-Click – Click (Indicates the number of clicks on the displayed ad.)
+
+Click – Click (Indicates the number of clicks on the displayed ad)
+
 Purchase – Indicates the number of products purchased after the clicked ads.
+
 Earning – Earnings after purchased items
